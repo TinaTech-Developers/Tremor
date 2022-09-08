@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1052241882479",
+    "firebase_url": "https://tremor-956f4-default-rtdb.firebaseio.com",
+    "project_id": "tremor-956f4",
+    "storage_bucket": "tremor-956f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052241882479:android:96416eeea637aa4483cc9a",
+        "android_client_info": {
+          "package_name": "com.example.tremor_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052241882479-5smt5nlailbs2f7l1olnajgmfph26e2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7D6iUFOOx5GztljP_vRqP8XTWOnp_HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052241882479-5smt5nlailbs2f7l1olnajgmfph26e2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052241882479:android:ccc309521af039c883cc9a",
+        "android_client_info": {
+          "package_name": "com.tremor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052241882479-5smt5nlailbs2f7l1olnajgmfph26e2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7D6iUFOOx5GztljP_vRqP8XTWOnp_HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052241882479-5smt5nlailbs2f7l1olnajgmfph26e2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
